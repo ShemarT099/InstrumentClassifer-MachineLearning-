@@ -8,3 +8,7 @@ Each instrument has it's own .wav file and there are 30 versions of 10 instrumen
 A MelSpectrogram from the librosa library was used to extract the features of each sound as each .wav file was iterated through. 
 
 These features would then be assigned to a label to be prepared for a supervised learning model.
+
+# How to use?
+
+To use this application, one can open this on a kaggle or jupyter notebook and then run each cell 
