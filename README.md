@@ -9,6 +9,10 @@ A MelSpectrogram from the librosa library was used to extract the features of ea
 
 These features would then be assigned to a label to be prepared for a supervised learning model.
 
+# Applications
+
+This is a program that demonstrates an algorithm's performance and accuracy at detecting muscial instruments with only playing a few seconds of music
+
 # How to use?
 
 To use this application, one can open this on a kaggle or jupyter notebook and then run each cell 
