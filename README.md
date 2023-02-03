@@ -9,6 +9,12 @@ A MelSpectrogram from the librosa library was used to extract the features of ea
 
 These features would then be assigned to a label to be prepared for a supervised learning model.
 
+# Model
+
+The Sequential model consisted of four layers; the input layer with a shape (40,), two hidden layers with 200 and 100 neurons respectively , and finally an output layer with 10 units representing the 10 different instruments
+
+All layers had an activation function of 'ReLU' a linear function that returns the input as the output if it was positive, else the output returns 0. 
+The ReLU activation function is usually easier to train and usually produces better performances 
 # Applications
 
 This is a program that demonstrates an algorithm's performance and accuracy at detecting muscial instruments with only playing a few seconds of music
