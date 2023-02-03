@@ -1,4 +1,4 @@
-# InstrumentClassifer-MachineLearning-
+# InstrumentClassifer- MachineLearning- Audio Recognition
 
 
 This project uses machine learning tools and algorithms to train the computer to recognize pre-labelled instruments based solely on their sounds.
